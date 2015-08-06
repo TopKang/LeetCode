@@ -1,0 +1,2 @@
+# LeetCode
+Leetcode first time!!!
